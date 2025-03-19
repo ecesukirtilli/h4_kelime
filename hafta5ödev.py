@@ -41,3 +41,4 @@ with open("haber_linkleri.txt", "w") as f:
                         f.write(url + "\n")
 
 print("Tüm URL'ler haber_linkleri.txt dosyasına kaydedildi.")
+
